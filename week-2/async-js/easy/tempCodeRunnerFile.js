@@ -1,0 +1,1 @@
+setInterval(call,1000)
